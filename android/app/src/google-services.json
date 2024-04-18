@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549326926374",
+    "project_id": "itnotification-nttu",
+    "storage_bucket": "itnotification-nttu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549326926374:android:4b00c440b21cbe2d49ece7",
+        "android_client_info": {
+          "package_name": "com.example.notification_nttu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUjmDjLmj08QNhxmjZDbTZgPNUoQJkrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
